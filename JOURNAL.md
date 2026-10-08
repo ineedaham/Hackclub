@@ -25,25 +25,29 @@
 
 **Oct 6**
 
-19:00 - Downloaded KiCad and imported files. Confused on import, but eventually figured it out (https://www.youtube.com/watch?v=W9cLnIjvybo - he spoke one file to import, but imported another).
+**19:00** - Downloaded KiCad and imported files. Confused on import, but eventually figured it out (https://www.youtube.com/watch?v=W9cLnIjvybo - he spoke one file to import, but imported another).
 
-19:30 - Set up Hackatime account/application (Lookout). Pretty easy.
+**19:30** - Set up Hackatime account/application (Lookout). Pretty easy.
 
 ![Screenshot 2026-10-07 185259](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/6gxmRq7zHwr0D8M6E1GpmARHzsSvOBpM/ff368f62b0280a7be1868046795c3b01a85b1bf39eec315e41b6f374b3e73cc7.png)
 
-19:40 - Joined Slack.
+**19:40** - Joined Slack.
 
-19:45 - Started working on KiCad. The application is easy to use, but tends to take a little to load windows, which is expected. Had to figure out what the labels were for, as the tutorial did NOT explain well enough.
+**19:45** - Started working on KiCad. The application is easy to use, but tends to take a little to load windows, which is expected. Had to figure out what the labels were for, as the tutorial did NOT explain well enough.
 
 ![Screenshot 2026-10-07 185009](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/6gxmRq7zHwr0D8M6E1GpmARHzsSvOBpM/30d4e175e11e7f6ce6614d2acea7441daf1dec362cd1af8b66e8a1bc493486b4.png)
 
-20:45 - Stopped working. Finished doing the ESP32 and buttons. Called with a friend until 20:50.
+**20:45** - Stopped working. Finished doing the ESP32 and buttons. Called with a friend until 20:50.
 
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/6gxmRq7zHwr0D8M6E1GpmARHzsSvOBpM/88940b500e3a9de1ec6c3ebc4aa80b071fa349eeb6c94122ae4fe4fcd57086fb.png)
 
-TL;DR: My first day (yesterday as of the time of writing) was the beginning of my journey, and although it was pretty bland, I know that the rest will be pretty fun!
+**TL;DR:** My first day (yesterday as of the time of writing) was the beginning of my journey, and although it was pretty bland, I know that the rest will be pretty fun!
 
 ![image](https://tse4.mm.bing.net/th/id/OIP.G808YNEBFz1hUgaTez3CJwAAAA?r=0&rs=1&pid=ImgDetMain&o=7&rm=3)
+
+Last updated at **21:30** on the 7th.
+
+![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/6gxmRq7zHwr0D8M6E1GpmARHzsSvOBpM/40d2ac400ccb7c894bc2636eff719166b397b6a4f0a4f8618ea37295100b829e.png)
 
 ### 2026-10-07 – **Oct 7**
 
